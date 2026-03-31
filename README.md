@@ -11,15 +11,15 @@
 
 ## Сведения о хакатоне 
 - Даты хакатона: 28–30 ноября 2025
-- Диплом участника:  [`Hack & Change Diploma — Matveev Ilya`](docs/diploma/diplom-matveev-ilya.pdf)
+- Диплом участника:  [`Hack & Change Diploma`](https://drive.google.com/file/d/1m0Rx3xGXNTlxhlBJ1Fk523ANxW0o_DAi/view?usp=sharing)
 
 ## Демонстрация интерфейса 
 ### Страница входа 
-![Вход](https://github.com/hep2014/Hack-Change-Online-school/raw/main/docs/images/demo-login.png)
+![Вход](https://github.com/anastaness/psb_edu_web_service/raw/main/docs/images/demo-login.png)
 ### Страница регистрации 
-![Регистрация](https://github.com/hep2014/Hack-Change-Online-school/raw/main/docs/images/demo-reg.png)
+![Регистрация](https://github.com/anastaness/psb_edu_web_service/raw/main/docs/images/demo-reg.png)
 ### Главная страница
-![Главная](https://github.com/hep2014/Hack-Change-Online-school/raw/main/docs/images/demo-main.png)
+![Главная](https://github.com/anastaness/psb_edu_web_service/raw/main/docs/images/demo-main.png)
 
 ## О проекте
 
@@ -141,11 +141,11 @@ hakaton/
 ### Быстрый старт
 - Скопируйте проект локально:
 ```
-git clone https://github.com/hep2014/Hack-Change-Online-school.git
+git clone https://github.com/anastaness/psb_edu_web_service.git
 ```
 - Перейдите в папку проекта:
 ```
-cd Hach-Change-Online-school
+cd psb_edu_web_service
 ```
 - Запустите docker compose:
 ```
