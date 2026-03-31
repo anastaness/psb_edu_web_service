@@ -11,7 +11,7 @@
 
 ## Сведения о хакатоне 
 - Даты хакатона: 28–30 ноября 2025
-- Диплом участника:  [`Hack & Change Diploma`](https://drive.google.com/file/d/1m0Rx3xGXNTlxhlBJ1Fk523ANxW0o_DAi/view?usp=sharing)
+- Диплом участника:  [`Hack & Change Diploma`](https://github.com/anastaness/psb_edu_web_service/blob/main/docs/diploma/changellenge1_web_псб.pdf)
 
 ## Демонстрация интерфейса 
 ### Страница входа 
